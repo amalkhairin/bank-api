@@ -1,0 +1,9 @@
+[
+  {
+    "id": "8c4c8897-751d-40f3-9f45-b809e2bdcd48",
+    "user_id": "1",
+    "amount": 100.5,
+    "description": "Payment for service",
+    "created_at": "2024-10-05T20:08:32.342874307+07:00"
+  }
+]
